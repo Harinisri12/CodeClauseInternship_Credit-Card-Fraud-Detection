@@ -1,1 +1,1 @@
-'''pip install faker'''
+`pip install faker`
